@@ -1,0 +1,15 @@
+.Triangle {
+    max-width: 90vw;
+    max-height: 90vh;
+    height: 90vh;
+    aspect-ratio: 1;
+    background-color: black;
+}
+
+.dot {
+    width: 3px;
+    height: 3px;
+    border-radius: 100%;
+    background: black;
+    position: absolute;
+}
